@@ -8,6 +8,8 @@ interpreters/*.lua
 lualibs/copas/copas.lua
 lualibs/coxpcall/coxpcall.lua
 lualibs/dist/*.lua
+lualibs/fs.lua
+lualibs/fs/*.lua
 lualibs/git.lua
 lualibs/git/*.lua
 lualibs/lexers/*
@@ -31,6 +33,7 @@ lualibs/socket/*.lua
 lualibs/ssl.lua
 lualibs/ssl/https.lua
 lualibs/testwell.lua
+lualibs/unixperms.lua
 packages/*.lua
 spec/*.lua
 src/config.lua
